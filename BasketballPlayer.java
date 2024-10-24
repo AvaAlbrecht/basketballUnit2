@@ -41,12 +41,12 @@ public class BasketballPlayer {
     
     // return first name
     public String getFirstName() {
-
+        return firstName; 
     }
     
     // returns last name
     public String getLastName() {
-
+        return lastName;
     }
     
     public void setBall(Ball b) {
